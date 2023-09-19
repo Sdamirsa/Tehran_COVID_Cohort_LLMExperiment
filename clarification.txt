@@ -1,0 +1,14 @@
+1 - in <<output_second.xlsx>> i replaced all categorical values like gender and survival outcones with 0 and 1 
+
+in <<output.xlsx>>, i forgot to replace to o values in 2 columms with Nan, I replaced it and save it in <<output_second.xlsx>>
+
+died = 0 ///  survived=1
+
+male= 1 /// female = 0
+
+
+2- in <<experiment1.ipynb>> i was trying to translate the persian wot=rds in columns to english but after cleaning and dropping rows and columns, the ccolumnms thst needed the transltion was removed so i didn't continued it.
+
+3- <<correcting function1 , 5.ipynb>> dome of my helper function needed change so i changed them !!!
+
+4- <<experiment1 sample training.ipynb>> results <<output.xlsx>> ,<<output_second.xlsx>>
