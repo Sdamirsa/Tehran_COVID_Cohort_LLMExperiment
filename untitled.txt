@@ -1,0 +1,1 @@
+convert the code between ----  to a python function which takes X_train,y_train_Outcome_InhospitalMortality,X_test, y_test_Outcome_InhospitalMortality as input and gives Logistic_Regression, y_plot as output
