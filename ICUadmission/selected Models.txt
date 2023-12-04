@@ -1,0 +1,14 @@
+# Models for Zero shot classification:
+
+
+	I want to use RAG.
+
+1.MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+2.facebook/bart-large-mnli
+3.alexandrainst/scandi-nli-large
+
+
+# Models for Text Classification
+
+		use Fine  tuning.
+

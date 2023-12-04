@@ -1,0 +1,16 @@
+{
+  "citation": "",
+  "description": "",
+  "features": {
+    "patient medical hidtory": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "Inhospital Mortality": {
+      "dtype": "string",
+      "_type": "Value"
+    }
+  },
+  "homepage": "",
+  "license": ""
+}
