@@ -238,7 +238,7 @@ messsage_content_column="patient medical history"
 llm_list=[
     "gpt-4o-2024-05-13", #	Up to Oct 2023   --> Gpt-4o
     "gpt-4-turbo-2024-04-09", #	Up to Dec 2023 --> Gpt-4turbo
-    "gpt-4-0613-preview", #	Up to Sep 2021 --> Gpt-4
+    "gpt-4-0613", #	Up to Sep 2021 --> Gpt-4
     "gpt-3.5-turbo-0125" #	Up to September 2021 --> Gpt-3.5 
     ]
 openai_api=os.getenv("OPENAI_API_KEY")
